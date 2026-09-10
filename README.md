@@ -2,8 +2,8 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Building+clean%2C+responsive+web+apps;React.js+%7C+JavaScript+%7C+TypeScript;AI-Integrated+%26+Full-Stack+Collaboration;Always+learning%2C+always+building" alt="Typing SVG" />
 
-![LinkedIn](https://linkedin.com/)
-![Portfolio](https://vercel.com/)
+![LinkedIn](https://linkedin.com/in/moamen-essam/)
+![Portfolio](https://3-d-portfolio-rose-rho.vercel.app/)
 ![Email](mailto:moameneisam1@gmail.com)
 
 <img src="https://komarev.com/ghpvc/?username=moameneisam&style=for-the-badge&color=2563eb&label=PROFILE+VIEWS" alt="profile views"/>
@@ -76,8 +76,8 @@ Delivered 3+ real-world client projects end-to-end, including e-commerce-style o
 <img src="./metrics.svg" width="97%" alt="GitHub Metrics"/>
 
 📫 Connect With Me
-![LinkedIn](https://linkedin.com/)
+![LinkedIn](https://linkedin.com/in/moamen-essam/)
 ![Gmail](mailto:moameneisam1@gmail.com)
-![Portfolio](#)
+![Portfolio](https://3-d-portfolio-rose-rho.vercel.app/)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9333ea,100:2563eb&height=100&section=footer" width="100%"/>
